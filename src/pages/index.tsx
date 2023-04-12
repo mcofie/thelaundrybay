@@ -4,8 +4,11 @@ import styles from '@/styles/Home.module.css'
 
 
 export default function Home() {
-  return (
-    <>
-    </>
-  )
+    return (
+        <>
+            <Head>
+                <title>The Laundry Bay</title>
+            </Head>
+        </>
+    )
 }
