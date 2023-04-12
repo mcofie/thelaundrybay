@@ -1,0 +1,20 @@
+{
+  "name": "droplaundry",
+  "version": "1.0.0",
+  "dependencies": {
+    "next": "^12.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next export",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "@types/node": "18.15.11",
+    "@types/react": "18.0.35",
+    "typescript": "5.0.4"
+  }
+}
